@@ -1,0 +1,17 @@
+.back {
+    background-image: url('./Fotos/library.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+}
+
+.back2 {
+    background-image: url('./Fotos/library.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+}
