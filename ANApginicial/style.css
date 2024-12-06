@@ -22,13 +22,20 @@ body {
 }
 
 .background-2 {
+<<<<<<< HEAD
     background: url('./Fotos/background.png');
+=======
+    background: linear-gradient(to right, #bd630f, #185792, #3085ca);
+>>>>>>> b16917a5ec9394c7b881188d3a4b950bc65ec8eb
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
+<<<<<<< HEAD
     background-repeat: no-repeat;
+=======
+>>>>>>> b16917a5ec9394c7b881188d3a4b950bc65ec8eb
 }
 
 /* NAVBAR */
@@ -94,6 +101,7 @@ body {
     color: #ffffff !important;
 }
 
+<<<<<<< HEAD
 
 
 /* CARROSSEL */
@@ -151,6 +159,19 @@ body {
     }
 }
 
+=======
+/* CARROSSEL */
+
+.carousel-inner .carousel-item {
+    opacity: 0.77;
+    animation: slide 2s infinite;
+}
+
+p{
+    font-weight: bold;
+    font-size: 120%;
+}
+>>>>>>> b16917a5ec9394c7b881188d3a4b950bc65ec8eb
 
 /* BANNER */
 
